@@ -6,7 +6,7 @@ import {
   createUserWithEmailAndPassword,
   onAuthStateChanged,
 } from 'firebase/auth';
-import { firebaseAuth } from '../firebase-config';
+import { firebaseAuth } from '../firebase-config.js';
 import Group from '../assets/Group.png';
 
 const Signup = () => {

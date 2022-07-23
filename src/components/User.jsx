@@ -2,7 +2,7 @@ import { onAuthStateChanged, signOut } from 'firebase/auth';
 import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
 import { useNavigate } from 'react-router-dom';
-import { firebaseAuth } from '../firebase-config';
+import { firebaseAuth } from '../firebase-config.js';
 
 export const User = () => {
   const [user, setUser] = useState(undefined);

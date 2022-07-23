@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { v4 as uuid } from 'uuid';
 import { DragDropContext, Droppable } from 'react-beautiful-dnd';
-import { doc, setDoc, getDoc } from 'firebase/firestore';
 import { onAuthStateChanged } from 'firebase/auth';
 import { useEffect } from 'react';
 import InputContainer from '../components/InputContainer';

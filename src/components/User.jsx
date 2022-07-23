@@ -31,28 +31,26 @@ const Section = styled.section`
   display: flex;
   justify-content: center;
   align-items: flex-end;
-  background: #FEFEFE;
-border-right: 2px solid #F0F0F0;
+  background: #fefefe;
+  border-right: 2px solid #f0f0f0;
   .container {
-   
-    background-color: #FEFEFE;
-    color: #9A9A9A;
+    background-color: #fefefe;
+    color: #9a9a9a;
     text-align: center;
-    
-    
+
     button {
       padding: 0;
-border: none;
-background: none;
-      background-color: #FEFEFE;
+      border: none;
+      background: none;
+      background-color: #fefefe;
       color: 9A9A9A;
       border-radius: 20px;
-      padding: .5rem 1rem;
+      padding: 0.5rem 1rem;
       font-size: 1.4rem;
       cursor: pointer;
       transition: 0.3s ease-in-out;
       &:hover {
-        background-color: #F0F0F0;
+        background-color: #f0f0f0;
         color: #2e3440;
       }
     }

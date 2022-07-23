@@ -3,7 +3,4 @@ import './index.scss';
 import App from './App';
 import ReactDOM from 'react-dom';
 
-ReactDOM.render(
-    <App />,
-  document.getElementById('root')
-);
+ReactDOM.render(<App />, document.getElementById('root'));

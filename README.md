@@ -1,16 +1,12 @@
-
 # Taskify
+
 ## Authentication based task management tool
 
-
-
-
 ## Demo
-[![Taskify](https://img.shields.io/badge/Tryit-(here)-blue.svg)](https://taskify-beta.vercel.app)
+
+[![Taskify](<https://img.shields.io/badge/Tryit-(here)-blue.svg>)](https://taskify-beta.vercel.app)
 ![demo](./src/assets/taskifyDemo.gif)
 
-
-  
 ## Features
 
 - Firebase Authentication with Email and Password
@@ -18,16 +14,15 @@
 - Drag-n-Drop cards and list
 - Update/Edit List and Cards
 
-  
 ## 🛠 Technologies Used
+
 - React Js - `Javascript library to create UI`
 - Firebase - `App development platform`
 - react-beautiful-dnd - `npm Package`
 - Node Js - `JavaScript runtime built`
 - Visual Studio Code - `Code Editor`
-- Figma - `design tool that helps you to create     websites, applications, logos, and much more`
+- Figma - `design tool that helps you to create websites, applications, logos, and much more`
 
-  
 ## Installation
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

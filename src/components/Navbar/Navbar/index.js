@@ -9,7 +9,7 @@ export default function Navbar() {
       <nav>
         <div className="container">
           <div>
-            <h1 className='name'>{`Hi ${name}`}</h1>
+            <h1 className="name">{`Hi ${name}`}</h1>
           </div>
         </div>
       </nav>

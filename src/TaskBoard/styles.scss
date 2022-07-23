@@ -1,0 +1,13 @@
+.align-components {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  grid-template-areas: 'sidebar' 'board';
+  grid-gap: 10vh;
+}
+.sidebar {
+  grid-area: 'sidebar';
+}
+
+.board {
+  grid-area: 'board';
+}
